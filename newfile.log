@@ -1,0 +1,1753 @@
+2022-12-23 08:06:50,792 get top 250 movies from imdb
+2022-12-23 08:06:50,798 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:06:51,507 https://www.imdb.com:443 "GET /chart/top HTTP/1.1" 200 None
+2022-12-23 08:06:53,053 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:06:55,659 https://www.imdb.com:443 "GET /title/tt0111161/ HTTP/1.1" 200 None
+2022-12-23 08:06:56,299 get 
+      1.
+      Nhà tù Shawshank
+(1994)
+ info
+2022-12-23 08:06:56,301 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:06:57,990 https://www.imdb.com:443 "GET /title/tt0068646/ HTTP/1.1" 200 None
+2022-12-23 08:06:58,815 get 
+      2.
+      Bố Già
+(1972)
+ info
+2022-12-23 08:06:58,817 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:07:01,098 https://www.imdb.com:443 "GET /title/tt0468569/ HTTP/1.1" 200 None
+2022-12-23 08:07:01,755 get 
+      3.
+      Kỵ Sĩ Bóng Đêm
+(2008)
+ info
+2022-12-23 08:07:01,756 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:07:03,251 https://www.imdb.com:443 "GET /title/tt0071562/ HTTP/1.1" 200 None
+2022-12-23 08:07:03,910 get 
+      4.
+      Bố Già Phần II
+(1974)
+ info
+2022-12-23 08:07:03,911 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:07:05,448 https://www.imdb.com:443 "GET /title/tt0050083/ HTTP/1.1" 200 None
+2022-12-23 08:07:06,091 get 
+      5.
+      12 Người Đàn Ông Giận Dữ
+(1957)
+ info
+2022-12-23 08:07:06,092 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:07:07,276 https://www.imdb.com:443 "GET /title/tt0108052/ HTTP/1.1" 200 None
+2022-12-23 08:07:07,881 get 
+      6.
+      Bản Danh Sách Của Schindler
+(1993)
+ info
+2022-12-23 08:07:07,883 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:07:09,847 https://www.imdb.com:443 "GET /title/tt0167260/ HTTP/1.1" 200 None
+2022-12-23 08:07:10,456 get 
+      7.
+      Chúa Tể Của Những Chiếc Nhẫn: Sự Quay Trở Lại Của Nhà Vua
+(2003)
+ info
+2022-12-23 08:07:10,458 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:07:11,849 https://www.imdb.com:443 "GET /title/tt0110912/ HTTP/1.1" 200 None
+2022-12-23 08:07:12,484 get 
+      8.
+      Chuyện Tào Lao
+(1994)
+ info
+2022-12-23 08:07:12,485 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:07:14,770 https://www.imdb.com:443 "GET /title/tt0120737/ HTTP/1.1" 200 None
+2022-12-23 08:07:15,459 get 
+      9.
+      Chúa Tể Của Những Chiếc Nhẫn: Những Người Bạn Của Nhẫn
+(2001)
+ info
+2022-12-23 08:07:15,460 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:07:16,487 https://www.imdb.com:443 "GET /title/tt0060196/ HTTP/1.1" 200 None
+2022-12-23 08:07:17,354 get 
+      10.
+      Thiện, Ác, Tà
+(1966)
+ info
+2022-12-23 08:07:17,355 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:07:19,780 https://www.imdb.com:443 "GET /title/tt0109830/ HTTP/1.1" 200 None
+2022-12-23 08:07:20,653 get 
+      11.
+      Cuộc Đời Forrest Gump
+(1994)
+ info
+2022-12-23 08:07:20,655 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:07:22,080 https://www.imdb.com:443 "GET /title/tt0137523/ HTTP/1.1" 200 None
+2022-12-23 08:07:22,731 get 
+      12.
+      Sàn Đấu Sinh Tử
+(1999)
+ info
+2022-12-23 08:07:22,733 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:07:24,391 https://www.imdb.com:443 "GET /title/tt0167261/ HTTP/1.1" 200 None
+2022-12-23 08:07:25,032 get 
+      13.
+      Chúa Tể Của Những Chiếc Nhẫn: Hai Tòa Tháp
+(2002)
+ info
+2022-12-23 08:07:25,034 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:07:26,613 https://www.imdb.com:443 "GET /title/tt1375666/ HTTP/1.1" 200 None
+2022-12-23 08:07:27,307 get 
+      14.
+      Kẻ Đánh Cắp Giấc Mơ
+(2010)
+ info
+2022-12-23 08:07:27,308 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:07:28,756 https://www.imdb.com:443 "GET /title/tt0080684/ HTTP/1.1" 200 None
+2022-12-23 08:07:29,386 get 
+      15.
+      Chiến Tranh Giữa Các Vì Sao Tập 5: Đế Chế Phản Công
+(1980)
+ info
+2022-12-23 08:07:29,387 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:07:31,175 https://www.imdb.com:443 "GET /title/tt0133093/ HTTP/1.1" 200 None
+2022-12-23 08:07:31,800 get 
+      16.
+      Ma Trận
+(1999)
+ info
+2022-12-23 08:07:31,802 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:07:33,208 https://www.imdb.com:443 "GET /title/tt0099685/ HTTP/1.1" 200 None
+2022-12-23 08:07:33,839 get 
+      17.
+      Chiến Hữu
+(1990)
+ info
+2022-12-23 08:07:33,840 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:07:35,265 https://www.imdb.com:443 "GET /title/tt0073486/ HTTP/1.1" 200 None
+2022-12-23 08:07:35,897 get 
+      18.
+      Bay Trên Tổ Chim Cúc Cu
+(1975)
+ info
+2022-12-23 08:07:35,899 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:07:37,221 https://www.imdb.com:443 "GET /title/tt0114369/ HTTP/1.1" 200 None
+2022-12-23 08:07:37,947 get 
+      19.
+      7 Tội Lỗi Chết Người
+(1995)
+ info
+2022-12-23 08:07:37,948 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:07:39,107 https://www.imdb.com:443 "GET /title/tt0047478/ HTTP/1.1" 200 None
+2022-12-23 08:07:39,960 get 
+      20.
+      Bảy Võ Sĩ Đạo
+(1954)
+ info
+2022-12-23 08:07:39,962 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:07:41,710 https://www.imdb.com:443 "GET /title/tt0038650/ HTTP/1.1" 200 None
+2022-12-23 08:07:42,579 get 
+      21.
+      Cuộc Sống Tươi Đẹp
+(1946)
+ info
+2022-12-23 08:07:42,581 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:07:43,873 https://www.imdb.com:443 "GET /title/tt0102926/ HTTP/1.1" 200 None
+2022-12-23 08:07:44,738 get 
+      22.
+      Sự Im Lặng Của Bầy Cừu
+(1991)
+ info
+2022-12-23 08:07:44,739 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:07:45,921 https://www.imdb.com:443 "GET /title/tt0317248/ HTTP/1.1" 200 None
+2022-12-23 08:07:46,821 get 
+      23.
+      Thành Phố Của Chúa
+(2002)
+ info
+2022-12-23 08:07:46,822 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:07:48,625 https://www.imdb.com:443 "GET /title/tt0120815/ HTTP/1.1" 200 None
+2022-12-23 08:07:49,485 get 
+      24.
+      Giải Cứu Binh Nhì Ryan
+(1998)
+ info
+2022-12-23 08:07:49,487 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:07:50,607 https://www.imdb.com:443 "GET /title/tt0118799/ HTTP/1.1" 200 None
+2022-12-23 08:07:51,444 get 
+      25.
+      Cuộc Sống Tươi Đẹp
+(1997)
+ info
+2022-12-23 08:07:51,445 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:07:52,739 https://www.imdb.com:443 "GET /title/tt0816692/ HTTP/1.1" 200 None
+2022-12-23 08:07:53,611 get 
+      26.
+      Hố Đen Tử Thần
+(2014)
+ info
+2022-12-23 08:07:53,613 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:07:54,675 https://www.imdb.com:443 "GET /title/tt0120689/ HTTP/1.1" 200 None
+2022-12-23 08:07:55,494 get 
+      27.
+      Dặm Xanh
+(1999)
+ info
+2022-12-23 08:07:55,495 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:07:57,001 https://www.imdb.com:443 "GET /title/tt0076759/ HTTP/1.1" 200 None
+2022-12-23 08:07:57,859 get 
+      28.
+      Chiến Tranh Giữa Các Vì Sao Tập 4: Niềm Hi Vọng Mới
+(1977)
+ info
+2022-12-23 08:07:57,860 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:07:59,429 https://www.imdb.com:443 "GET /title/tt0103064/ HTTP/1.1" 200 None
+2022-12-23 08:08:00,326 get 
+      29.
+      Kẻ Hủy Diệt 2: Ngày Phán Xét
+(1991)
+ info
+2022-12-23 08:08:00,328 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:08:03,284 https://www.imdb.com:443 "GET /title/tt0088763/ HTTP/1.1" 200 None
+2022-12-23 08:08:03,995 get 
+      30.
+      Trở Về Tương Lai
+(1985)
+ info
+2022-12-23 08:08:03,997 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:08:05,317 https://www.imdb.com:443 "GET /title/tt0245429/ HTTP/1.1" 200 None
+2022-12-23 08:08:06,203 get 
+      31.
+      Vùng Đất Linh Hồn
+(2001)
+ info
+2022-12-23 08:08:06,205 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:08:07,506 https://www.imdb.com:443 "GET /title/tt0054215/ HTTP/1.1" 200 None
+2022-12-23 08:08:08,382 get 
+      32.
+      Tâm Thần Hoảng Loạn
+(1960)
+ info
+2022-12-23 08:08:08,383 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:08:09,839 https://www.imdb.com:443 "GET /title/tt0253474/ HTTP/1.1" 200 None
+2022-12-23 08:08:10,688 get 
+      33.
+      Nghệ Sĩ Dương Cầm
+(2002)
+ info
+2022-12-23 08:08:10,689 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:08:12,080 https://www.imdb.com:443 "GET /title/tt6751668/ HTTP/1.1" 200 None
+2022-12-23 08:08:12,930 get 
+      34.
+      Ký Sinh Trùng
+(2019)
+ info
+2022-12-23 08:08:12,932 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:08:13,935 https://www.imdb.com:443 "GET /title/tt0110413/ HTTP/1.1" 200 None
+2022-12-23 08:08:14,563 get 
+      35.
+      Léon: Sát Thủ Chuyên Nghiệp
+(1994)
+ info
+2022-12-23 08:08:14,564 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:08:16,646 https://www.imdb.com:443 "GET /title/tt0110357/ HTTP/1.1" 200 None
+2022-12-23 08:08:17,301 get 
+      36.
+      Vua Sư Tử
+(1994)
+ info
+2022-12-23 08:08:17,303 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:08:18,856 https://www.imdb.com:443 "GET /title/tt0172495/ HTTP/1.1" 200 None
+2022-12-23 08:08:19,489 get 
+      37.
+      Võ Sĩ Giác Đấu
+(2000)
+ info
+2022-12-23 08:08:19,491 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:08:20,781 https://www.imdb.com:443 "GET /title/tt0120586/ HTTP/1.1" 200 None
+2022-12-23 08:08:21,404 get 
+      38.
+      Lịch Sử Mĩ Thế Kỉ X
+(1998)
+ info
+2022-12-23 08:08:21,406 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:08:22,997 https://www.imdb.com:443 "GET /title/tt0407887/ HTTP/1.1" 200 None
+2022-12-23 08:08:23,593 get 
+      39.
+      Điệp Vụ Boston
+(2006)
+ info
+2022-12-23 08:08:23,594 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:08:25,030 https://www.imdb.com:443 "GET /title/tt0114814/ HTTP/1.1" 200 None
+2022-12-23 08:08:25,939 get 
+      40.
+      Nghi Phạm Vô Hình
+(1995)
+ info
+2022-12-23 08:08:25,941 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:08:27,408 https://www.imdb.com:443 "GET /title/tt0482571/ HTTP/1.1" 200 None
+2022-12-23 08:08:28,030 get 
+      41.
+      Ảo Thuật Gia Đấu Trí
+(2006)
+ info
+2022-12-23 08:08:28,032 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:08:29,523 https://www.imdb.com:443 "GET /title/tt2582802/ HTTP/1.1" 200 None
+2022-12-23 08:08:30,114 get 
+      42.
+      Tay Trống Cự Phách
+(2014)
+ info
+2022-12-23 08:08:30,116 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:08:31,446 https://www.imdb.com:443 "GET /title/tt0034583/ HTTP/1.1" 200 None
+2022-12-23 08:08:32,070 get 
+      43.
+      Chuyện Tình Thế Chiến
+(1942)
+ info
+2022-12-23 08:08:32,071 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:08:33,774 https://www.imdb.com:443 "GET /title/tt0056058/ HTTP/1.1" 200 None
+2022-12-23 08:08:34,391 get 
+      44.
+      Seppuku
+(1962)
+ info
+2022-12-23 08:08:34,392 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:08:36,224 https://www.imdb.com:443 "GET /title/tt0095327/ HTTP/1.1" 200 None
+2022-12-23 08:08:37,116 get 
+      45.
+      Mộ Đom Đóm
+(1988)
+ info
+2022-12-23 08:08:37,117 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:08:38,751 https://www.imdb.com:443 "GET /title/tt1675434/ HTTP/1.1" 200 None
+2022-12-23 08:08:39,407 get 
+      46.
+      Những Kẻ Bên Lề
+(2011)
+ info
+2022-12-23 08:08:39,408 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:08:40,988 https://www.imdb.com:443 "GET /title/tt0027977/ HTTP/1.1" 200 None
+2022-12-23 08:08:41,862 get 
+      47.
+      Thời Hiện Đại
+(1936)
+ info
+2022-12-23 08:08:41,863 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:08:42,896 https://www.imdb.com:443 "GET /title/tt0064116/ HTTP/1.1" 200 None
+2022-12-23 08:08:43,768 get 
+      48.
+      Thưở Ấy Miền Viễn Tây
+(1968)
+ info
+2022-12-23 08:08:43,769 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:08:45,007 https://www.imdb.com:443 "GET /title/tt0047396/ HTTP/1.1" 200 None
+2022-12-23 08:08:45,876 get 
+      49.
+      Vụ Án Mạng Nhà Bên
+(1954)
+ info
+2022-12-23 08:08:45,877 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:08:47,441 https://www.imdb.com:443 "GET /title/tt0095765/ HTTP/1.1" 200 None
+2022-12-23 08:08:48,327 get 
+      50.
+      Rạp Chiếu Bóng Thiên Đường
+(1988)
+ info
+2022-12-23 08:08:48,328 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:08:49,547 https://www.imdb.com:443 "GET /title/tt0078748/ HTTP/1.1" 200 None
+2022-12-23 08:08:50,413 get 
+      51.
+      Quái Vật Không Gian
+(1979)
+ info
+2022-12-23 08:08:50,415 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:08:52,043 https://www.imdb.com:443 "GET /title/tt0021749/ HTTP/1.1" 200 None
+2022-12-23 08:08:52,657 get 
+      52.
+      Ánh Sáng Đô Thị
+(1931)
+ info
+2022-12-23 08:08:52,659 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:08:54,046 https://www.imdb.com:443 "GET /title/tt0078788/ HTTP/1.1" 200 None
+2022-12-23 08:08:54,938 get 
+      53.
+      Lời Sấm Truyền
+(1979)
+ info
+2022-12-23 08:08:54,940 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:08:56,812 https://www.imdb.com:443 "GET /title/tt0209144/ HTTP/1.1" 200 None
+2022-12-23 08:08:57,429 get 
+      54.
+      Kẻ Mất Trí Nhớ
+(2000)
+ info
+2022-12-23 08:08:57,430 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:08:58,838 https://www.imdb.com:443 "GET /title/tt0082971/ HTTP/1.1" 200 None
+2022-12-23 08:08:59,488 get 
+      55.
+      Indiana Jones Và Chiếc Rương Thánh Tích
+(1981)
+ info
+2022-12-23 08:08:59,489 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:09:00,831 https://www.imdb.com:443 "GET /title/tt1853728/ HTTP/1.1" 200 None
+2022-12-23 08:09:01,541 get 
+      56.
+      Hành Trình Django
+(2012)
+ info
+2022-12-23 08:09:01,542 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:09:03,356 https://www.imdb.com:443 "GET /title/tt0910970/ HTTP/1.1" 200 None
+2022-12-23 08:09:03,927 get 
+      57.
+      Rô-bốt Biết Yêu
+(2008)
+ info
+2022-12-23 08:09:03,928 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:09:04,976 https://www.imdb.com:443 "GET /title/tt0405094/ HTTP/1.1" 200 None
+2022-12-23 08:09:05,784 get 
+      58.
+      Khoảnh Khắc Cuộc Đời
+(2006)
+ info
+2022-12-23 08:09:05,785 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:09:07,010 https://www.imdb.com:443 "GET /title/tt0043014/ HTTP/1.1" 200 None
+2022-12-23 08:09:07,827 get 
+      59.
+      Sunset Blvd.
+(1950)
+ info
+2022-12-23 08:09:07,829 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:09:09,084 https://www.imdb.com:443 "GET /title/tt0050825/ HTTP/1.1" 200 None
+2022-12-23 08:09:09,716 get 
+      60.
+      Paths of Glory
+(1957)
+ info
+2022-12-23 08:09:09,717 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:09:11,372 https://www.imdb.com:443 "GET /title/tt0081505/ HTTP/1.1" 200 None
+2022-12-23 08:09:12,247 get 
+      61.
+      Ngôi Nhà Ma
+(1980)
+ info
+2022-12-23 08:09:12,250 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:09:13,540 https://www.imdb.com:443 "GET /title/tt0032553/ HTTP/1.1" 200 None
+2022-12-23 08:09:14,240 get 
+      62.
+      Nhà Độc Tài Vĩ Đại
+(1940)
+ info
+2022-12-23 08:09:14,241 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:09:16,825 https://www.imdb.com:443 "GET /title/tt4154756/ HTTP/1.1" 200 None
+2022-12-23 08:09:17,702 get 
+      63.
+      Avengers: Cuộc Chiến Vô Cực
+(2018)
+ info
+2022-12-23 08:09:17,703 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:09:19,403 https://www.imdb.com:443 "GET /title/tt0051201/ HTTP/1.1" 200 None
+2022-12-23 08:09:19,987 get 
+      64.
+      Nhân Chứng Buộc Tội
+(1957)
+ info
+2022-12-23 08:09:19,988 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:09:21,236 https://www.imdb.com:443 "GET /title/tt0090605/ HTTP/1.1" 200 None
+2022-12-23 08:09:21,840 get 
+      65.
+      Quái Vật Không Gian 2
+(1986)
+ info
+2022-12-23 08:09:21,841 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:09:23,739 https://www.imdb.com:443 "GET /title/tt4633694/ HTTP/1.1" 200 None
+2022-12-23 08:09:24,384 get 
+      66.
+      Người Nhện: Vũ Trụ Mới
+(2018)
+ info
+2022-12-23 08:09:24,386 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:09:25,603 https://www.imdb.com:443 "GET /title/tt0169547/ HTTP/1.1" 200 None
+2022-12-23 08:09:26,525 get 
+      67.
+      Vẻ Đẹp Mỹ
+(1999)
+ info
+2022-12-23 08:09:26,527 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:09:28,180 https://www.imdb.com:443 "GET /title/tt0057012/ HTTP/1.1" 200 None
+2022-12-23 08:09:28,761 get 
+      68.
+      Tiến Sĩ Strangelove
+(1964)
+ info
+2022-12-23 08:09:28,763 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:09:30,936 https://www.imdb.com:443 "GET /title/tt1345836/ HTTP/1.1" 200 None
+2022-12-23 08:09:31,538 get 
+      69.
+      Kỵ Sĩ Bóng Đêm Trỗi Dậy
+(2012)
+ info
+2022-12-23 08:09:31,539 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:09:32,510 https://www.imdb.com:443 "GET /title/tt0364569/ HTTP/1.1" 200 None
+2022-12-23 08:09:33,357 get 
+      70.
+      Oldboy: Báo Thù
+(2003)
+ info
+2022-12-23 08:09:33,358 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:09:34,736 https://www.imdb.com:443 "GET /title/tt0086879/ HTTP/1.1" 200 None
+2022-12-23 08:09:35,573 get 
+      71.
+      Sự Đố Kỵ Của Thiên Tài
+(1984)
+ info
+2022-12-23 08:09:35,574 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:09:37,031 https://www.imdb.com:443 "GET /title/tt0361748/ HTTP/1.1" 200 None
+2022-12-23 08:09:37,955 get 
+      72.
+      Định Mệnh
+(2009)
+ info
+2022-12-23 08:09:37,956 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:09:39,447 https://www.imdb.com:443 "GET /title/tt7286456/ HTTP/1.1" 200 None
+2022-12-23 08:09:40,327 get 
+      73.
+      Joker
+(2019)
+ info
+2022-12-23 08:09:40,328 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:09:41,462 https://www.imdb.com:443 "GET /title/tt2380307/ HTTP/1.1" 200 None
+2022-12-23 08:09:42,360 get 
+      74.
+      Coco: Hội Ngộ Diệu Kỳ
+(2017)
+ info
+2022-12-23 08:09:42,361 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:09:43,767 https://www.imdb.com:443 "GET /title/tt0114709/ HTTP/1.1" 200 None
+2022-12-23 08:09:44,624 get 
+      75.
+      Câu Chuyện Đồ Chơi
+(1995)
+ info
+2022-12-23 08:09:44,625 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:09:46,144 https://www.imdb.com:443 "GET /title/tt0112573/ HTTP/1.1" 200 None
+2022-12-23 08:09:47,013 get 
+      76.
+      Trái Tim Dũng Cảm
+(1995)
+ info
+2022-12-23 08:09:47,014 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:09:48,567 https://www.imdb.com:443 "GET /title/tt0082096/ HTTP/1.1" 200 None
+2022-12-23 08:09:49,266 get 
+      77.
+      Trận Chiến Tàu Ngầm
+(1981)
+ info
+2022-12-23 08:09:49,268 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:09:51,307 https://www.imdb.com:443 "GET /title/tt4154796/ HTTP/1.1" 200 None
+2022-12-23 08:09:52,187 get 
+      78.
+      Avengers: Hồi Kết
+(2019)
+ info
+2022-12-23 08:09:52,188 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:09:54,300 https://www.imdb.com:443 "GET /title/tt0119698/ HTTP/1.1" 200 None
+2022-12-23 08:09:54,903 get 
+      79.
+      Công Chúa Mononoke
+(1997)
+ info
+2022-12-23 08:09:54,904 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:09:56,525 https://www.imdb.com:443 "GET /title/tt0087843/ HTTP/1.1" 200 None
+2022-12-23 08:09:57,161 get 
+      80.
+      Nước Mỹ Một Thời
+(1984)
+ info
+2022-12-23 08:09:57,163 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:09:58,255 https://www.imdb.com:443 "GET /title/tt0119217/ HTTP/1.1" 200 None
+2022-12-23 08:09:59,109 get 
+      81.
+      Chàng Will Tốt Bụng
+(1997)
+ info
+2022-12-23 08:09:59,110 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:10:00,388 https://www.imdb.com:443 "GET /title/tt5311514/ HTTP/1.1" 200 None
+2022-12-23 08:10:01,251 get 
+      82.
+      Tên Cậu Là Gì?
+(2016)
+ info
+2022-12-23 08:10:01,252 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:10:02,650 https://www.imdb.com:443 "GET /title/tt1745960/ HTTP/1.1" 200 None
+2022-12-23 08:10:03,582 get 
+      83.
+      Phi Công Siêu Đẳng Maverick
+(2022)
+ info
+2022-12-23 08:10:03,584 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:10:04,686 https://www.imdb.com:443 "GET /title/tt0180093/ HTTP/1.1" 200 None
+2022-12-23 08:10:05,510 get 
+      84.
+      Nguyện Cầu Cho Một Giấc Mơ
+(2000)
+ info
+2022-12-23 08:10:05,511 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:10:06,556 https://www.imdb.com:443 "GET /title/tt1187043/ HTTP/1.1" 200 None
+2022-12-23 08:10:07,189 get 
+      85.
+      3 Chàng Ngốc
+(2009)
+ info
+2022-12-23 08:10:07,191 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:10:08,479 https://www.imdb.com:443 "GET /title/tt0045152/ HTTP/1.1" 200 None
+2022-12-23 08:10:09,372 get 
+      86.
+      Hát Dưới Mưa
+(1952)
+ info
+2022-12-23 08:10:09,374 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:10:11,443 https://www.imdb.com:443 "GET /title/tt0435761/ HTTP/1.1" 200 None
+2022-12-23 08:10:12,093 get 
+      87.
+      Câu Chuyện Đồ Chơi 3
+(2010)
+ info
+2022-12-23 08:10:12,094 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:10:13,387 https://www.imdb.com:443 "GET /title/tt0057565/ HTTP/1.1" 200 None
+2022-12-23 08:10:14,252 get 
+      88.
+      Tengoku to jigoku
+(1963)
+ info
+2022-12-23 08:10:14,253 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:10:15,600 https://www.imdb.com:443 "GET /title/tt0086190/ HTTP/1.1" 200 None
+2022-12-23 08:10:16,452 get 
+      89.
+      Chiến Tranh Giữa Các Vì Sao Tập 6: Sự Quay Trở Lại Của Jedi
+(1983)
+ info
+2022-12-23 08:10:16,453 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:10:17,647 https://www.imdb.com:443 "GET /title/tt8267604/ HTTP/1.1" 200 None
+2022-12-23 08:10:18,507 get 
+      90.
+      Capharnaüm
+(2018)
+ info
+2022-12-23 08:10:18,508 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:10:19,744 https://www.imdb.com:443 "GET /title/tt0338013/ HTTP/1.1" 200 None
+2022-12-23 08:10:20,326 get 
+      91.
+      Tia Nắng Vĩnh Cửu Của Tâm Hồn Tinh Khiết
+(2004)
+ info
+2022-12-23 08:10:20,327 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:10:21,986 https://www.imdb.com:443 "GET /title/tt0062622/ HTTP/1.1" 200 None
+2022-12-23 08:10:22,624 get 
+      92.
+      2001: Chuyến Du Hành Không Gian
+(1968)
+ info
+2022-12-23 08:10:22,625 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:10:23,689 https://www.imdb.com:443 "GET /title/tt0105236/ HTTP/1.1" 200 None
+2022-12-23 08:10:24,582 get 
+      93.
+      Những Kẻ Phản Bội
+(1992)
+ info
+2022-12-23 08:10:24,584 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:10:26,064 https://www.imdb.com:443 "GET /title/tt2106476/ HTTP/1.1" 200 None
+2022-12-23 08:10:26,669 get 
+      94.
+      Cuộc Săn Lùng
+(2012)
+ info
+2022-12-23 08:10:26,671 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:10:28,020 https://www.imdb.com:443 "GET /title/tt0091251/ HTTP/1.1" 200 None
+2022-12-23 08:10:28,630 get 
+      95.
+      Đến Mà Xem
+(1985)
+ info
+2022-12-23 08:10:28,632 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:10:29,980 https://www.imdb.com:443 "GET /title/tt0033467/ HTTP/1.1" 200 None
+2022-12-23 08:10:30,864 get 
+      96.
+      Công Dân Kane
+(1941)
+ info
+2022-12-23 08:10:30,865 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:10:32,387 https://www.imdb.com:443 "GET /title/tt0022100/ HTTP/1.1" 200 None
+2022-12-23 08:10:33,240 get 
+      97.
+      M - Eine Stadt sucht einen Mörder
+(1931)
+ info
+2022-12-23 08:10:33,242 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:10:35,031 https://www.imdb.com:443 "GET /title/tt0056172/ HTTP/1.1" 200 None
+2022-12-23 08:10:35,976 get 
+      98.
+      Lawrence Xứ Ả Rập
+(1962)
+ info
+2022-12-23 08:10:35,977 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:10:37,708 https://www.imdb.com:443 "GET /title/tt0053125/ HTTP/1.1" 200 None
+2022-12-23 08:10:38,552 get 
+      99.
+      Bắc Tây Bắc
+(1959)
+ info
+2022-12-23 08:10:38,554 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:10:39,963 https://www.imdb.com:443 "GET /title/tt0052357/ HTTP/1.1" 200 None
+2022-12-23 08:10:40,765 get 
+      100.
+      Quay Cuồng
+(1958)
+ info
+2022-12-23 08:10:40,766 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:10:41,956 https://www.imdb.com:443 "GET /title/tt0211915/ HTTP/1.1" 200 None
+2022-12-23 08:10:42,520 get 
+      101.
+      Le fabuleux destin d'Amélie Poulain
+(2001)
+ info
+2022-12-23 08:10:42,521 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:10:43,984 https://www.imdb.com:443 "GET /title/tt0066921/ HTTP/1.1" 200 None
+2022-12-23 08:10:44,807 get 
+      102.
+      Cỗ Máy Tội Phạm
+(1971)
+ info
+2022-12-23 08:10:44,809 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:10:46,411 https://www.imdb.com:443 "GET /title/tt0053604/ HTTP/1.1" 200 None
+2022-12-23 08:10:46,990 get 
+      103.
+      Căn Hộ Tình Yêu
+(1960)
+ info
+2022-12-23 08:10:46,992 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:10:48,043 https://www.imdb.com:443 "GET /title/tt0044741/ HTTP/1.1" 200 None
+2022-12-23 08:10:48,910 get 
+      104.
+      Ikiru
+(1952)
+ info
+2022-12-23 08:10:48,911 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:10:50,565 https://www.imdb.com:443 "GET /title/tt0036775/ HTTP/1.1" 200 None
+2022-12-23 08:10:51,159 get 
+      105.
+      Double Indemnity
+(1944)
+ info
+2022-12-23 08:10:51,160 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:10:52,501 https://www.imdb.com:443 "GET /title/tt0093058/ HTTP/1.1" 200 None
+2022-12-23 08:10:53,368 get 
+      106.
+      Áo Giắp Sắt
+(1987)
+ info
+2022-12-23 08:10:53,369 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:10:54,473 https://www.imdb.com:443 "GET /title/tt8503618/ HTTP/1.1" 200 None
+2022-12-23 08:10:55,323 get 
+      107.
+      Anh Hùng Hamilton
+(2020)
+ info
+2022-12-23 08:10:55,324 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:10:56,505 https://www.imdb.com:443 "GET /title/tt0086250/ HTTP/1.1" 200 None
+2022-12-23 08:10:57,166 get 
+      108.
+      Ông Trùm Mặt Sẹo
+(1983)
+ info
+2022-12-23 08:10:57,168 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:10:58,190 https://www.imdb.com:443 "GET /title/tt0056592/ HTTP/1.1" 200 None
+2022-12-23 08:10:59,124 get 
+      109.
+      Giết Con Chim Nhại
+(1962)
+ info
+2022-12-23 08:10:59,125 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:11:00,574 https://www.imdb.com:443 "GET /title/tt0070735/ HTTP/1.1" 200 None
+2022-12-23 08:11:01,425 get 
+      110.
+      The Sting
+(1973)
+ info
+2022-12-23 08:11:01,427 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:11:03,319 https://www.imdb.com:443 "GET /title/tt1255953/ HTTP/1.1" 200 None
+2022-12-23 08:11:03,960 get 
+      111.
+      Tìm Tung Tích Mẹ
+(2010)
+ info
+2022-12-23 08:11:03,961 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:11:05,393 https://www.imdb.com:443 "GET /title/tt1049413/ HTTP/1.1" 200 None
+2022-12-23 08:11:06,019 get 
+      112.
+      Vút Bay
+(2009)
+ info
+2022-12-23 08:11:06,021 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:11:07,372 https://www.imdb.com:443 "GET /title/tt0113277/ HTTP/1.1" 200 None
+2022-12-23 08:11:08,248 get 
+      113.
+      Kỳ Phùng Địch Thủ
+(1995)
+ info
+2022-12-23 08:11:08,249 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:11:09,475 https://www.imdb.com:443 "GET /title/tt0075314/ HTTP/1.1" 200 None
+2022-12-23 08:11:10,408 get 
+      114.
+      Tài Xế Taxi
+(1976)
+ info
+2022-12-23 08:11:10,410 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:11:11,971 https://www.imdb.com:443 "GET /title/tt1832382/ HTTP/1.1" 200 None
+2022-12-23 08:11:12,833 get 
+      115.
+      Cuộc Chia Ly
+(2011)
+ info
+2022-12-23 08:11:12,835 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:11:14,032 https://www.imdb.com:443 "GET /title/tt0017136/ HTTP/1.1" 200 None
+2022-12-23 08:11:14,910 get 
+      116.
+      Thành Phố Trung Tâm
+(1927)
+ info
+2022-12-23 08:11:14,911 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:11:16,340 https://www.imdb.com:443 "GET /title/tt0119488/ HTTP/1.1" 200 None
+2022-12-23 08:11:16,991 get 
+      117.
+      Bí Mật Los Angeles
+(1997)
+ info
+2022-12-23 08:11:16,992 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:11:18,320 https://www.imdb.com:443 "GET /title/tt0095016/ HTTP/1.1" 200 None
+2022-12-23 08:11:19,197 get 
+      118.
+      Đương Đầu Với Thử Thách
+(1988)
+ info
+2022-12-23 08:11:19,198 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:11:20,449 https://www.imdb.com:443 "GET /title/tt0208092/ HTTP/1.1" 200 None
+2022-12-23 08:11:21,035 get 
+      119.
+      Tên Trộm Nữ Trang
+(2000)
+ info
+2022-12-23 08:11:21,036 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:11:22,568 https://www.imdb.com:443 "GET /title/tt0097576/ HTTP/1.1" 200 None
+2022-12-23 08:11:23,273 get 
+      120.
+      Indiana Jones Và Cuộc Thập Tự Chinh Cuối Cùng
+(1989)
+ info
+2022-12-23 08:11:23,274 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:11:24,569 https://www.imdb.com:443 "GET /title/tt0040522/ HTTP/1.1" 200 None
+2022-12-23 08:11:25,379 get 
+      121.
+      Kẻ Cắp Xe Đạp
+(1948)
+ info
+2022-12-23 08:11:25,380 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:11:26,919 https://www.imdb.com:443 "GET /title/tt0986264/ HTTP/1.1" 200 None
+2022-12-23 08:11:27,506 get 
+      122.
+      Cậu Bé Đặc Biệt
+(2007)
+ info
+2022-12-23 08:11:27,507 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:11:29,237 https://www.imdb.com:443 "GET /title/tt8579674/ HTTP/1.1" 200 None
+2022-12-23 08:11:29,971 get 
+      123.
+      Thế Chiến 1917
+(2019)
+ info
+2022-12-23 08:11:29,972 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:11:31,477 https://www.imdb.com:443 "GET /title/tt0363163/ HTTP/1.1" 200 None
+2022-12-23 08:11:32,378 get 
+      124.
+      Ngày Tàn Của Hitler
+(2004)
+ info
+2022-12-23 08:11:32,380 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:11:33,448 https://www.imdb.com:443 "GET /title/tt0059578/ HTTP/1.1" 200 None
+2022-12-23 08:11:35,387 get 
+      125.
+      Thêm Vài Đồng Xu Lẻ
+(1965)
+ info
+2022-12-23 08:11:35,389 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:11:36,971 https://www.imdb.com:443 "GET /title/tt5074352/ HTTP/1.1" 200 None
+2022-12-23 08:11:37,622 get 
+      126.
+      Dangal
+(2016)
+ info
+2022-12-23 08:11:37,623 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:11:40,892 https://www.imdb.com:443 "GET /title/tt0372784/ HTTP/1.1" 200 None
+2022-12-23 08:11:42,026 get 
+      127.
+      Người Dơi Xuất Hiện
+(2005)
+ info
+2022-12-23 08:11:42,028 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:11:43,110 https://www.imdb.com:443 "GET /title/tt0012349/ HTTP/1.1" 200 None
+2022-12-23 08:11:44,017 get 
+      128.
+      Đứa Trẻ
+(1921)
+ info
+2022-12-23 08:11:44,019 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:11:45,819 https://www.imdb.com:443 "GET /title/tt0053291/ HTTP/1.1" 200 None
+2022-12-23 08:11:46,457 get 
+      129.
+      Some Like It Hot
+(1959)
+ info
+2022-12-23 08:11:46,458 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:11:47,985 https://www.imdb.com:443 "GET /title/tt10272386/ HTTP/1.1" 200 None
+2022-12-23 08:11:48,866 get 
+      130.
+      The Father
+(2020)
+ info
+2022-12-23 08:11:48,868 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:11:50,013 https://www.imdb.com:443 "GET /title/tt0042192/ HTTP/1.1" 200 None
+2022-12-23 08:11:50,928 get 
+      131.
+      All About Eve
+(1950)
+ info
+2022-12-23 08:11:50,929 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:11:52,807 https://www.imdb.com:443 "GET /title/tt6966692/ HTTP/1.1" 200 None
+2022-12-23 08:11:53,683 get 
+      132.
+      Cẩm Nang Xanh
+(2018)
+ info
+2022-12-23 08:11:53,684 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:11:55,678 https://www.imdb.com:443 "GET /title/tt0993846/ HTTP/1.1" 200 None
+2022-12-23 08:11:56,329 get 
+      133.
+      Sói Già Phố Wall
+(2013)
+ info
+2022-12-23 08:11:56,331 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:11:57,608 https://www.imdb.com:443 "GET /title/tt0055031/ HTTP/1.1" 200 None
+2022-12-23 08:11:58,239 get 
+      134.
+      Tòa Án Chiến Tranh
+(1961)
+ info
+2022-12-23 08:11:58,241 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:11:59,391 https://www.imdb.com:443 "GET /title/tt0089881/ HTTP/1.1" 200 None
+2022-12-23 08:12:00,310 get 
+      135.
+      Lãnh Chúa Hidetora
+(1985)
+ info
+2022-12-23 08:12:00,311 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:12:01,407 https://www.imdb.com:443 "GET /title/tt0112641/ HTTP/1.1" 200 None
+2022-12-23 08:12:02,380 get 
+      136.
+      Sòng Bạc
+(1995)
+ info
+2022-12-23 08:12:02,382 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:12:03,805 https://www.imdb.com:443 "GET /title/tt0457430/ HTTP/1.1" 200 None
+2022-12-23 08:12:04,671 get 
+      137.
+      Mê Cung Của Pan
+(2006)
+ info
+2022-12-23 08:12:04,672 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:12:06,127 https://www.imdb.com:443 "GET /title/tt0105695/ HTTP/1.1" 200 None
+2022-12-23 08:12:06,731 get 
+      138.
+      Không Thể Tha Thứ
+(1992)
+ info
+2022-12-23 08:12:06,733 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:12:08,185 https://www.imdb.com:443 "GET /title/tt0469494/ HTTP/1.1" 200 None
+2022-12-23 08:12:08,823 get 
+      139.
+      Máu Sẽ Phải Đổ
+(2007)
+ info
+2022-12-23 08:12:08,825 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:12:10,055 https://www.imdb.com:443 "GET /title/tt0120382/ HTTP/1.1" 200 None
+2022-12-23 08:12:10,933 get 
+      140.
+      Buổi Diễn Của Truman
+(1998)
+ info
+2022-12-23 08:12:10,934 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:12:12,460 https://www.imdb.com:443 "GET /title/tt0167404/ HTTP/1.1" 200 None
+2022-12-23 08:12:13,499 get 
+      141.
+      Giác Quan Thứ Sáu
+(1999)
+ info
+2022-12-23 08:12:13,500 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:12:14,912 https://www.imdb.com:443 "GET /title/tt0268978/ HTTP/1.1" 200 None
+2022-12-23 08:12:15,904 get 
+      142.
+      Một Tâm Hồn Đẹp
+(2001)
+ info
+2022-12-23 08:12:15,905 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:12:17,419 https://www.imdb.com:443 "GET /title/tt1130884/ HTTP/1.1" 200 None
+2022-12-23 08:12:18,092 get 
+      143.
+      Đảo Kinh Hoàng
+(2010)
+ info
+2022-12-23 08:12:18,094 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:12:19,490 https://www.imdb.com:443 "GET /title/tt0055630/ HTTP/1.1" 200 None
+2022-12-23 08:12:20,321 get 
+      144.
+      Yôjinbô
+(1961)
+ info
+2022-12-23 08:12:20,323 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:12:21,832 https://www.imdb.com:443 "GET /title/tt0071853/ HTTP/1.1" 200 None
+2022-12-23 08:12:22,491 get 
+      145.
+      Chén Thánh Phiêu Lưu Ký
+(1975)
+ info
+2022-12-23 08:12:22,492 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:12:24,116 https://www.imdb.com:443 "GET /title/tt0040897/ HTTP/1.1" 200 None
+2022-12-23 08:12:24,751 get 
+      146.
+      Kho Báu Ở Sierra Madre
+(1948)
+ info
+2022-12-23 08:12:24,752 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:12:26,302 https://www.imdb.com:443 "GET /title/tt10872600/ HTTP/1.1" 200 None
+2022-12-23 08:12:27,249 get 
+      147.
+      Người Nhện: Không Còn Nhà
+(2021)
+ info
+2022-12-23 08:12:27,250 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:12:28,866 https://www.imdb.com:443 "GET /title/tt0107290/ HTTP/1.1" 200 None
+2022-12-23 08:12:29,513 get 
+      148.
+      Công Viên Kỷ Jura
+(1993)
+ info
+2022-12-23 08:12:29,514 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:12:30,792 https://www.imdb.com:443 "GET /title/tt0057115/ HTTP/1.1" 200 None
+2022-12-23 08:12:31,666 get 
+      149.
+      Cuộc Đào Thoát Vĩ Đại
+(1963)
+ info
+2022-12-23 08:12:31,668 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:12:33,129 https://www.imdb.com:443 "GET /title/tt0042876/ HTTP/1.1" 200 None
+2022-12-23 08:12:34,050 get 
+      150.
+      Lã Sinh Môn
+(1950)
+ info
+2022-12-23 08:12:34,051 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:12:35,440 https://www.imdb.com:443 "GET /title/tt0266697/ HTTP/1.1" 200 None
+2022-12-23 08:12:36,110 get 
+      151.
+      Cô Dâu Báo Thù 1
+(2003)
+ info
+2022-12-23 08:12:36,111 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:12:37,908 https://www.imdb.com:443 "GET /title/tt0477348/ HTTP/1.1" 200 None
+2022-12-23 08:12:38,617 get 
+      152.
+      Không Chốn Dung Thân
+(2007)
+ info
+2022-12-23 08:12:38,618 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:12:40,052 https://www.imdb.com:443 "GET /title/tt0266543/ HTTP/1.1" 200 None
+2022-12-23 08:12:40,906 get 
+      153.
+      Đi Tìm Nemo
+(2003)
+ info
+2022-12-23 08:12:40,907 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:12:42,426 https://www.imdb.com:443 "GET /title/tt0084787/ HTTP/1.1" 200 None
+2022-12-23 08:12:43,039 get 
+      154.
+      Quái Vật Biến Hình
+(1982)
+ info
+2022-12-23 08:12:43,041 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:12:44,540 https://www.imdb.com:443 "GET /title/tt0080678/ HTTP/1.1" 200 None
+2022-12-23 08:12:45,414 get 
+      155.
+      Người Voi
+(1980)
+ info
+2022-12-23 08:12:45,415 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:12:46,679 https://www.imdb.com:443 "GET /title/tt0071315/ HTTP/1.1" 200 None
+2022-12-23 08:12:47,551 get 
+      156.
+      Phố Tàu
+(1974)
+ info
+2022-12-23 08:12:47,552 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:12:48,786 https://www.imdb.com:443 "GET /title/tt0081398/ HTTP/1.1" 200 None
+2022-12-23 08:12:49,735 get 
+      157.
+      Bò Đực Nổi Điên
+(1980)
+ info
+2022-12-23 08:12:49,736 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:12:51,041 https://www.imdb.com:443 "GET /title/tt0434409/ HTTP/1.1" 200 None
+2022-12-23 08:12:51,918 get 
+      158.
+      Chiến Binh Tự Do
+(2005)
+ info
+2022-12-23 08:12:51,919 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:12:53,645 https://www.imdb.com:443 "GET /title/tt0031381/ HTTP/1.1" 200 None
+2022-12-23 08:12:54,532 get 
+      159.
+      Cuốn Theo Chiều Gió
+(1939)
+ info
+2022-12-23 08:12:54,533 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:12:55,862 https://www.imdb.com:443 "GET /title/tt2096673/ HTTP/1.1" 200 None
+2022-12-23 08:12:56,750 get 
+      160.
+      Những Mảnh Ghép Cảm Xúc
+(2015)
+ info
+2022-12-23 08:12:56,751 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:12:58,004 https://www.imdb.com:443 "GET /title/tt0120735/ HTTP/1.1" 200 None
+2022-12-23 08:12:58,839 get 
+      161.
+      Băng Đảng Người Anh
+(1998)
+ info
+2022-12-23 08:12:58,841 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:13:00,233 https://www.imdb.com:443 "GET /title/tt0046912/ HTTP/1.1" 200 None
+2022-12-23 08:13:01,103 get 
+      162.
+      Cuộc Gọi Chết Người
+(1954)
+ info
+2022-12-23 08:13:01,104 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:13:02,553 https://www.imdb.com:443 "GET /title/tt1305806/ HTTP/1.1" 200 None
+2022-12-23 08:13:03,476 get 
+      163.
+      Bí Mật Sau Ánh Mắt
+(2009)
+ info
+2022-12-23 08:13:03,477 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:13:06,129 https://www.imdb.com:443 "GET /title/tt0347149/ HTTP/1.1" 200 None
+2022-12-23 08:13:06,870 get 
+      164.
+      Lâu Đài Di Động Của Howl
+(2004)
+ info
+2022-12-23 08:13:06,871 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:13:08,362 https://www.imdb.com:443 "GET /title/tt0050212/ HTTP/1.1" 200 None
+2022-12-23 08:13:09,034 get 
+      165.
+      Cầu Sông Kwai
+(1957)
+ info
+2022-12-23 08:13:09,036 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:13:10,296 https://www.imdb.com:443 "GET /title/tt5027774/ HTTP/1.1" 200 None
+2022-12-23 08:13:11,185 get 
+      166.
+      Three Billboards: Truy Tìm Công Lý
+(2017)
+ info
+2022-12-23 08:13:11,186 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:13:12,544 https://www.imdb.com:443 "GET /title/tt0117951/ HTTP/1.1" 200 None
+2022-12-23 08:13:13,165 get 
+      167.
+      Lối Sống Đồi Trụy
+(1996)
+ info
+2022-12-23 08:13:13,167 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:13:14,489 https://www.imdb.com:443 "GET /title/tt1291584/ HTTP/1.1" 200 None
+2022-12-23 08:13:15,198 get 
+      168.
+      Chiến Binh Quyền Anh
+(2011)
+ info
+2022-12-23 08:13:15,200 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:13:16,770 https://www.imdb.com:443 "GET /title/tt0116282/ HTTP/1.1" 200 None
+2022-12-23 08:13:17,411 get 
+      169.
+      Thị Trấn Fargo
+(1996)
+ info
+2022-12-23 08:13:17,413 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:13:18,982 https://www.imdb.com:443 "GET /title/tt1392214/ HTTP/1.1" 200 None
+2022-12-23 08:13:19,604 get 
+      170.
+      Lần Theo Dấu Vết
+(2013)
+ info
+2022-12-23 08:13:19,606 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:13:20,955 https://www.imdb.com:443 "GET /title/tt1205489/ HTTP/1.1" 200 None
+2022-12-23 08:13:21,792 get 
+      171.
+      Ngọt Và Đắng
+(2008)
+ info
+2022-12-23 08:13:21,793 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:13:23,310 https://www.imdb.com:443 "GET /title/tt0096283/ HTTP/1.1" 200 None
+2022-12-23 08:13:24,190 get 
+      172.
+      Hàng Xóm Của Tôi Là Totoro
+(1988)
+ info
+2022-12-23 08:13:24,191 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:13:25,482 https://www.imdb.com:443 "GET /title/tt0264464/ HTTP/1.1" 200 None
+2022-12-23 08:13:26,404 get 
+      173.
+      Hãy Bắt Tôi Nếu Có Thể
+(2002)
+ info
+2022-12-23 08:13:26,405 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:13:27,582 https://www.imdb.com:443 "GET /title/tt0405159/ HTTP/1.1" 200 None
+2022-12-23 08:13:28,458 get 
+      174.
+      Million Dollar Baby
+(2004)
+ info
+2022-12-23 08:13:28,459 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:13:29,721 https://www.imdb.com:443 "GET /title/tt0118849/ HTTP/1.1" 200 None
+2022-12-23 08:13:30,357 get 
+      175.
+      Những Đứa Trẻ Thiên Đường
+(1997)
+ info
+2022-12-23 08:13:30,358 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:13:31,746 https://www.imdb.com:443 "GET /title/tt0083658/ HTTP/1.1" 200 None
+2022-12-23 08:13:32,673 get 
+      176.
+      Tội Phạm Nhân Bản
+(1982)
+ info
+2022-12-23 08:13:32,675 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:13:33,869 https://www.imdb.com:443 "GET /title/tt0015864/ HTTP/1.1" 200 None
+2022-12-23 08:13:34,904 get 
+      177.
+      Cuộc Săn Vàng
+(1925)
+ info
+2022-12-23 08:13:34,905 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:13:36,962 https://www.imdb.com:443 "GET /title/tt0047296/ HTTP/1.1" 200 None
+2022-12-23 08:13:37,564 get 
+      178.
+      On the Waterfront
+(1954)
+ info
+2022-12-23 08:13:37,565 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:13:39,683 https://www.imdb.com:443 "GET /title/tt0112471/ HTTP/1.1" 200 None
+2022-12-23 08:13:40,604 get 
+      179.
+      Before Sunrise
+(1995)
+ info
+2022-12-23 08:13:40,606 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:13:42,062 https://www.imdb.com:443 "GET /title/tt2024544/ HTTP/1.1" 200 None
+2022-12-23 08:13:42,966 get 
+      180.
+      12 Năm Nô Lệ
+(2013)
+ info
+2022-12-23 08:13:42,968 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:13:44,654 https://www.imdb.com:443 "GET /title/tt1201607/ HTTP/1.1" 200 None
+2022-12-23 08:13:45,284 get 
+      181.
+      Harry Potter và Bảo Bối Tử Thần: Phần 2
+(2011)
+ info
+2022-12-23 08:13:45,285 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:13:46,419 https://www.imdb.com:443 "GET /title/tt0052618/ HTTP/1.1" 200 None
+2022-12-23 08:13:47,288 get 
+      182.
+      Ben-Hur: Truyền Thuyết Đức Chúa Trời
+(1959)
+ info
+2022-12-23 08:13:47,289 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:13:48,265 https://www.imdb.com:443 "GET /title/tt0050986/ HTTP/1.1" 200 None
+2022-12-23 08:13:49,073 get 
+      183.
+      Smultronstället
+(1957)
+ info
+2022-12-23 08:13:49,075 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:13:50,531 https://www.imdb.com:443 "GET /title/tt2267998/ HTTP/1.1" 200 None
+2022-12-23 08:13:51,228 get 
+      184.
+      Cô Gái Mất Tích
+(2014)
+ info
+2022-12-23 08:13:51,229 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:13:52,453 https://www.imdb.com:443 "GET /title/tt0041959/ HTTP/1.1" 200 None
+2022-12-23 08:13:53,312 get 
+      185.
+      Người Thứ Ba
+(1949)
+ info
+2022-12-23 08:13:53,314 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:13:54,783 https://www.imdb.com:443 "GET /title/tt0017925/ HTTP/1.1" 200 None
+2022-12-23 08:13:55,662 get 
+      186.
+      The General
+(1926)
+ info
+2022-12-23 08:13:55,663 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:13:57,268 https://www.imdb.com:443 "GET /title/tt2278388/ HTTP/1.1" 200 None
+2022-12-23 08:13:57,923 get 
+      187.
+      Khách Sạn Đế Vương
+(2014)
+ info
+2022-12-23 08:13:57,924 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:13:58,956 https://www.imdb.com:443 "GET /title/tt4729430/ HTTP/1.1" 200 None
+2022-12-23 08:13:59,826 get 
+      188.
+      Klaus - Câu Chuyện Giáng Sinh
+(2019)
+ info
+2022-12-23 08:13:59,828 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:14:00,980 https://www.imdb.com:443 "GET /title/tt0077416/ HTTP/1.1" 200 None
+2022-12-23 08:14:01,863 get 
+      189.
+      Kẻ Săn Hươu
+(1978)
+ info
+2022-12-23 08:14:01,865 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:14:03,151 https://www.imdb.com:443 "GET /title/tt0107207/ HTTP/1.1" 200 None
+2022-12-23 08:14:03,776 get 
+      190.
+      In the Name of the Father
+(1993)
+ info
+2022-12-23 08:14:03,778 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:14:04,859 https://www.imdb.com:443 "GET /title/tt0046268/ HTTP/1.1" 200 None
+2022-12-23 08:14:05,721 get 
+      191.
+      Le salaire de la peur
+(1953)
+ info
+2022-12-23 08:14:05,723 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:14:07,521 https://www.imdb.com:443 "GET /title/tt0072684/ HTTP/1.1" 200 None
+2022-12-23 08:14:08,409 get 
+      192.
+      Barry Lyndon
+(1975)
+ info
+2022-12-23 08:14:08,410 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:14:10,190 https://www.imdb.com:443 "GET /title/tt2119532/ HTTP/1.1" 200 None
+2022-12-23 08:14:10,775 get 
+      193.
+      Người Hùng Không Súng
+(2016)
+ info
+2022-12-23 08:14:10,777 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:14:12,157 https://www.imdb.com:443 "GET /title/tt0015324/ HTTP/1.1" 200 None
+2022-12-23 08:14:12,737 get 
+      194.
+      Sherlock Jr.
+(1924)
+ info
+2022-12-23 08:14:12,738 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:14:14,014 https://www.imdb.com:443 "GET /title/tt0031679/ HTTP/1.1" 200 None
+2022-12-23 08:14:14,680 get 
+      195.
+      Mr. Smith Goes to Washington
+(1939)
+ info
+2022-12-23 08:14:14,682 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:14:15,786 https://www.imdb.com:443 "GET /title/tt0353969/ HTTP/1.1" 200 None
+2022-12-23 08:14:16,674 get 
+      196.
+      Hồi Ức Kẻ Sát Nhân
+(2003)
+ info
+2022-12-23 08:14:16,675 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:14:18,049 https://www.imdb.com:443 "GET /title/tt3011894/ HTTP/1.1" 200 None
+2022-12-23 08:14:18,695 get 
+      197.
+      Relatos salvajes
+(2014)
+ info
+2022-12-23 08:14:18,696 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:14:20,163 https://www.imdb.com:443 "GET /title/tt0050976/ HTTP/1.1" 200 None
+2022-12-23 08:14:20,804 get 
+      198.
+      Phong Ấn Thứ Bảy
+(1957)
+ info
+2022-12-23 08:14:20,806 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:14:22,812 https://www.imdb.com:443 "GET /title/tt1392190/ HTTP/1.1" 200 None
+2022-12-23 08:14:23,700 get 
+      199.
+      Max Điên: Con Đường Tử Thần
+(2015)
+ info
+2022-12-23 08:14:23,702 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:14:25,320 https://www.imdb.com:443 "GET /title/tt3170832/ HTTP/1.1" 200 None
+2022-12-23 08:14:26,263 get 
+      200.
+      Room
+(2015)
+ info
+2022-12-23 08:14:26,264 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:14:27,331 https://www.imdb.com:443 "GET /title/tt0978762/ HTTP/1.1" 200 None
+2022-12-23 08:14:28,197 get 
+      201.
+      Mary Và Max
+(2009)
+ info
+2022-12-23 08:14:28,198 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:14:29,640 https://www.imdb.com:443 "GET /title/tt0892769/ HTTP/1.1" 200 None
+2022-12-23 08:14:30,281 get 
+      202.
+      Bí Kíp Luyện Rồng
+(2010)
+ info
+2022-12-23 08:14:30,282 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:14:31,775 https://www.imdb.com:443 "GET /title/tt0198781/ HTTP/1.1" 200 None
+2022-12-23 08:14:32,585 get 
+      203.
+      Công Ty Quái Vật
+(2001)
+ info
+2022-12-23 08:14:32,587 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:14:34,291 https://www.imdb.com:443 "GET /title/tt0118715/ HTTP/1.1" 200 None
+2022-12-23 08:14:34,936 get 
+      204.
+      Bá Tước Lebowski
+(1998)
+ info
+2022-12-23 08:14:34,937 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:14:36,607 https://www.imdb.com:443 "GET /title/tt0073195/ HTTP/1.1" 200 None
+2022-12-23 08:14:37,583 get 
+      205.
+      Hàm Cá Mập
+(1975)
+ info
+2022-12-23 08:14:37,585 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:14:38,644 https://www.imdb.com:443 "GET /title/tt0097165/ HTTP/1.1" 200 None
+2022-12-23 08:14:39,470 get 
+      206.
+      Hội Cố Thi Nhân
+(1989)
+ info
+2022-12-23 08:14:39,472 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:14:40,641 https://www.imdb.com:443 "GET /title/tt0019254/ HTTP/1.1" 200 None
+2022-12-23 08:14:41,463 get 
+      207.
+      Bài Ca Khổ Hình Của Joan of Arc
+(1928)
+ info
+2022-12-23 08:14:41,464 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:14:42,512 https://www.imdb.com:443 "GET /title/tt0046438/ HTTP/1.1" 200 None
+2022-12-23 08:14:43,389 get 
+      208.
+      Câu Chuyện Tokyo
+(1953)
+ info
+2022-12-23 08:14:43,390 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:14:44,771 https://www.imdb.com:443 "GET /title/tt0395169/ HTTP/1.1" 200 None
+2022-12-23 08:14:45,582 get 
+      209.
+      Khách Sạn Rwanda
+(2004)
+ info
+2022-12-23 08:14:45,583 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:14:47,097 https://www.imdb.com:443 "GET /title/tt1950186/ HTTP/1.1" 200 None
+2022-12-23 08:14:47,983 get 
+      210.
+      Cuộc Đua Lịch Sử
+(2019)
+ info
+2022-12-23 08:14:47,985 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:14:49,021 https://www.imdb.com:443 "GET /title/tt0075148/ HTTP/1.1" 200 None
+2022-12-23 08:14:49,937 get 
+      211.
+      Tay Đấm Huyền Thoại
+(1976)
+ info
+2022-12-23 08:14:49,939 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:14:52,116 https://www.imdb.com:443 "GET /title/tt0091763/ HTTP/1.1" 200 None
+2022-12-23 08:14:52,771 get 
+      212.
+      Trung Đội
+(1986)
+ info
+2022-12-23 08:14:52,773 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:14:53,986 https://www.imdb.com:443 "GET /title/tt1895587/ HTTP/1.1" 200 None
+2022-12-23 08:14:54,856 get 
+      213.
+      Tiêu Điểm
+(2015)
+ info
+2022-12-23 08:14:54,858 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:14:56,493 https://www.imdb.com:443 "GET /title/tt0088247/ HTTP/1.1" 200 None
+2022-12-23 08:14:57,317 get 
+      214.
+      Kẻ Hủy Diệt
+(1984)
+ info
+2022-12-23 08:14:57,318 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:14:58,402 https://www.imdb.com:443 "GET /title/tt0092005/ HTTP/1.1" 200 None
+2022-12-23 08:14:59,291 get 
+      215.
+      Stand by Me
+(1986)
+ info
+2022-12-23 08:14:59,292 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:15:00,766 https://www.imdb.com:443 "GET /title/tt0382932/ HTTP/1.1" 200 None
+2022-12-23 08:15:01,430 get 
+      216.
+      Chú Chuột Đầu Bếp
+(2007)
+ info
+2022-12-23 08:15:01,431 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:15:03,087 https://www.imdb.com:443 "GET /title/tt3315342/ HTTP/1.1" 200 None
+2022-12-23 08:15:03,990 get 
+      217.
+      Logan: Người Sói
+(2017)
+ info
+2022-12-23 08:15:03,991 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:15:05,603 https://www.imdb.com:443 "GET /title/tt1979320/ HTTP/1.1" 200 None
+2022-12-23 08:15:06,266 get 
+      218.
+      Đường Đua Nghẹt Thở
+(2013)
+ info
+2022-12-23 08:15:06,268 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:15:07,862 https://www.imdb.com:443 "GET /title/tt0074958/ HTTP/1.1" 200 None
+2022-12-23 08:15:08,728 get 
+      219.
+      Network
+(1976)
+ info
+2022-12-23 08:15:08,730 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:15:10,322 https://www.imdb.com:443 "GET /title/tt0048473/ HTTP/1.1" 200 None
+2022-12-23 08:15:10,966 get 
+      220.
+      Pather Panchali
+(1955)
+ info
+2022-12-23 08:15:10,968 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:15:11,863 https://www.imdb.com:443 "GET /title/tt0758758/ HTTP/1.1" 200 None
+2022-12-23 08:15:12,753 get 
+      221.
+      Về Với Thiên Nhiên
+(2007)
+ info
+2022-12-23 08:15:12,754 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:15:14,615 https://www.imdb.com:443 "GET /title/tt0032138/ HTTP/1.1" 200 None
+2022-12-23 08:15:15,283 get 
+      222.
+      Phù Thủy Xứ Oz
+(1939)
+ info
+2022-12-23 08:15:15,284 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:15:16,477 https://www.imdb.com:443 "GET /title/tt0381681/ HTTP/1.1" 200 None
+2022-12-23 08:15:17,269 get 
+      223.
+      Trước Lúc Hoàng Hôn
+(2004)
+ info
+2022-12-23 08:15:17,271 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:15:18,419 https://www.imdb.com:443 "GET /title/tt0107048/ HTTP/1.1" 200 None
+2022-12-23 08:15:19,305 get 
+      224.
+      Ngày Chuột Chũi
+(1993)
+ info
+2022-12-23 08:15:19,307 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:15:20,547 https://www.imdb.com:443 "GET /title/tt0036868/ HTTP/1.1" 200 None
+2022-12-23 08:15:21,423 get 
+      225.
+      The Best Years of Our Lives
+(1946)
+ info
+2022-12-23 08:15:21,424 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:15:22,777 https://www.imdb.com:443 "GET /title/tt0070047/ HTTP/1.1" 200 None
+2022-12-23 08:15:23,628 get 
+      226.
+      The Exorcist
+(1973)
+ info
+2022-12-23 08:15:23,630 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:15:24,733 https://www.imdb.com:443 "GET /title/tt0035446/ HTTP/1.1" 200 None
+2022-12-23 08:15:25,637 get 
+      227.
+      To Be or Not to Be
+(1942)
+ info
+2022-12-23 08:15:25,638 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:15:27,186 https://www.imdb.com:443 "GET /title/tt0317705/ HTTP/1.1" 200 None
+2022-12-23 08:15:28,056 get 
+      228.
+      Gia Đình Siêu Nhân
+(2004)
+ info
+2022-12-23 08:15:28,057 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:15:29,398 https://www.imdb.com:443 "GET /title/tt0058946/ HTTP/1.1" 200 None
+2022-12-23 08:15:30,026 get 
+      229.
+      La battaglia di Algeri
+(1966)
+ info
+2022-12-23 08:15:30,027 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:15:31,413 https://www.imdb.com:443 "GET /title/tt15097216/ HTTP/1.1" 200 None
+2022-12-23 08:15:32,212 get 
+      230.
+      Jai Bhim
+(2021)
+ info
+2022-12-23 08:15:32,213 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:15:33,322 https://www.imdb.com:443 "GET /title/tt1028532/ HTTP/1.1" 200 None
+2022-12-23 08:15:34,199 get 
+      231.
+      Hachiko: Chú Chó Trung Thành
+(2009)
+ info
+2022-12-23 08:15:34,200 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:15:35,295 https://www.imdb.com:443 "GET /title/tt0113247/ HTTP/1.1" 200 None
+2022-12-23 08:15:36,239 get 
+      232.
+      La haine
+(1995)
+ info
+2022-12-23 08:15:36,240 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:15:37,864 https://www.imdb.com:443 "GET /title/tt0476735/ HTTP/1.1" 200 None
+2022-12-23 08:15:38,737 get 
+      233.
+      Cha Và Con Của Tôi
+(2005)
+ info
+2022-12-23 08:15:38,738 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:15:39,956 https://www.imdb.com:443 "GET /title/tt0325980/ HTTP/1.1" 200 None
+2022-12-23 08:15:40,850 get 
+      234.
+      Cướp Biển Vùng Caribê: Lời Nguyền Của Tàu Ngọc Trai Đen
+(2003)
+ info
+2022-12-23 08:15:40,852 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:15:41,873 https://www.imdb.com:443 "GET /title/tt0032551/ HTTP/1.1" 200 None
+2022-12-23 08:15:42,489 get 
+      235.
+      The Grapes of Wrath
+(1940)
+ info
+2022-12-23 08:15:42,491 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:15:43,754 https://www.imdb.com:443 "GET /title/tt0032976/ HTTP/1.1" 200 None
+2022-12-23 08:15:44,645 get 
+      236.
+      Rebecca
+(1940)
+ info
+2022-12-23 08:15:44,646 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:15:46,149 https://www.imdb.com:443 "GET /title/tt0245712/ HTTP/1.1" 200 None
+2022-12-23 08:15:46,810 get 
+      237.
+      Amores perros
+(2000)
+ info
+2022-12-23 08:15:46,812 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:15:48,193 https://www.imdb.com:443 "GET /title/tt0061512/ HTTP/1.1" 200 None
+2022-12-23 08:15:48,878 get 
+      238.
+      Cool Hand Luke
+(1967)
+ info
+2022-12-23 08:15:48,880 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:15:49,970 https://www.imdb.com:443 "GET /title/tt0053198/ HTTP/1.1" 200 None
+2022-12-23 08:15:50,826 get 
+      239.
+      400 Cú Đấm
+(1959)
+ info
+2022-12-23 08:15:50,828 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:15:51,925 https://www.imdb.com:443 "GET /title/tt4016934/ HTTP/1.1" 200 None
+2022-12-23 08:15:52,837 get 
+      240.
+      Người Hầu Gái
+(2016)
+ info
+2022-12-23 08:15:52,838 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:15:53,971 https://www.imdb.com:443 "GET /title/tt0059742/ HTTP/1.1" 200 None
+2022-12-23 08:15:54,810 get 
+      241.
+      Giai Điệu Hạnh Phúc
+(1965)
+ info
+2022-12-23 08:15:54,812 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:15:56,224 https://www.imdb.com:443 "GET /title/tt0025316/ HTTP/1.1" 200 None
+2022-12-23 08:15:57,122 get 
+      242.
+      Chuyện Xảy Ra Trong Đêm
+(1934)
+ info
+2022-12-23 08:15:57,123 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:15:58,410 https://www.imdb.com:443 "GET /title/tt0060827/ HTTP/1.1" 200 None
+2022-12-23 08:15:59,311 get 
+      243.
+      Persona
+(1966)
+ info
+2022-12-23 08:15:59,312 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:16:00,373 https://www.imdb.com:443 "GET /title/tt0079470/ HTTP/1.1" 200 None
+2022-12-23 08:16:01,282 get 
+      244.
+      Life of Brian
+(1979)
+ info
+2022-12-23 08:16:01,284 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:16:02,542 https://www.imdb.com:443 "GET /title/tt0071411/ HTTP/1.1" 200 None
+2022-12-23 08:16:03,325 get 
+      245.
+      Dersu Uzala
+(1975)
+ info
+2022-12-23 08:16:03,326 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:16:04,659 https://www.imdb.com:443 "GET /title/tt0129167/ HTTP/1.1" 200 None
+2022-12-23 08:16:05,298 get 
+      246.
+      Người Máy Khổng Lồ
+(1999)
+ info
+2022-12-23 08:16:05,299 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:16:06,778 https://www.imdb.com:443 "GET /title/tt0103639/ HTTP/1.1" 200 None
+2022-12-23 08:16:07,666 get 
+      247.
+      Aladdin
+(1992)
+ info
+2022-12-23 08:16:07,667 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:16:09,309 https://www.imdb.com:443 "GET /title/tt1454029/ HTTP/1.1" 200 None
+2022-12-23 08:16:09,960 get 
+      248.
+      Người Giúp Việc
+(2011)
+ info
+2022-12-23 08:16:09,962 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:16:12,853 https://www.imdb.com:443 "GET /title/tt0083987/ HTTP/1.1" 200 None
+2022-12-23 08:16:13,279 get 
+      249.
+      Cuộc Đời Gandhi
+(1982)
+ info
+2022-12-23 08:16:13,281 Starting new HTTPS connection (1): www.imdb.com:443
+2022-12-23 08:16:14,830 https://www.imdb.com:443 "GET /title/tt6710474/ HTTP/1.1" 200 None
+2022-12-23 08:16:15,467 get 
+      250.
+      Cuộc Chiến Đa Vũ Trụ
+(2022)
+ info
